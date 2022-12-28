@@ -1,0 +1,41 @@
+{
+    "name": "vue3-dayjs-plugin",
+    "version": "1.0.1",
+    "description": "A wrapper for integrating dayjs into Vuejs 3",
+    "main": "index.js",
+    "scripts": {
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/DevAccess/vue3-dayjs.git"
+    },
+    "keywords": [
+        "vue",
+        "vue3",
+        "datetime",
+        "date",
+        "time",
+        "dayjs",
+        "day.js",
+        "moment",
+        "momentjs"
+    ],
+    "author": "devaccess",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/DevAccess/vue3-dayjs/issues"
+    },
+    "homepage": "https://github.com/DevAccess/vue3-dayjs#readme",
+    "dependencies": {
+        "dayjs": "^1.11.5"
+    },
+    "peerDependencies": {
+        "vue": "^3.2.38",
+        "dayjs": "^1.11.5"
+    },
+    "devDependencies": {
+        "vue": "^3.2.38",
+        "dayjs": "^1.11.5"
+    }
+  }
+  
