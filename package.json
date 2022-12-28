@@ -1,6 +1,6 @@
 {
     "name": "vue3-dayjs-plugin",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "A wrapper for integrating dayjs into Vuejs 3",
     "main": "index.js",
     "scripts": {
